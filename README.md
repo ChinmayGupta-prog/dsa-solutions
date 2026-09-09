@@ -10,3 +10,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 73 | Set Matrix Zeroes | Medium | Array / Matrix | In-place Matrix Marking | [Java](./arrays/SetMatrixZeroes.java) |
 | 54 | Spiral Matrix | Medium | Array / Matrix | Boundary Traversal | [Java](./arrays/SpiralMatrix.java) |
 | 48 | Rotate Image | Medium | Array / Matrix | Transpose + Reverse | [Java](./arrays/RotateImage.java) |
+| 33 | Search in Rotated Sorted Array | Medium | Array / Binary Search | Modified Binary Search | [Java](./binary-search/SearchInRotatedSortedArray.java) |
