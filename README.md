@@ -12,3 +12,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 48 | Rotate Image | Medium | Array / Matrix | Transpose + Reverse | [Java](./arrays/RotateImage.java) |
 | 33 | Search in Rotated Sorted Array | Medium | Array / Binary Search | Modified Binary Search | [Java](./binary-search/SearchInRotatedSortedArray.java) |
 | 343 | Integer Break | Medium | Dynamic Programming | Recursion + Memoization | [Java](./dynamic-programming/IntegerBreak.java) |
+| 290 | Word Pattern | Easy | HashMap / String | One-to-One Mapping | [Java](./hashing/WordPattern.java) |
