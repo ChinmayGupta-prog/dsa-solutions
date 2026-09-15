@@ -14,3 +14,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 343 | Integer Break | Medium | Dynamic Programming | Recursion + Memoization | [Java](./dynamic-programming/IntegerBreak.java) |
 | 290 | Word Pattern | Easy | HashMap / String | One-to-One Mapping | [Java](./hashing/WordPattern.java) |
 | 890 | Find and Replace Pattern | Medium | HashMap / String | One-to-One Mapping | [Java](./hashing/FindAndReplacePattern.java) |
+| 205 | Isomorphic Strings | Easy | HashMap / String | One-to-One Mapping | [Java](./hashing/IsomorphicStrings.java) |
