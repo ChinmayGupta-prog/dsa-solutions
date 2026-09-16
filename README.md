@@ -16,3 +16,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 890 | Find and Replace Pattern | Medium | HashMap / String | One-to-One Mapping | [Java](./hashing/FindAndReplacePattern.java) |
 | 205 | Isomorphic Strings | Easy | HashMap / String | One-to-One Mapping | [Java](./hashing/IsomorphicStrings.java) |
 | 219 | Contains Duplicate II | Easy | HashSet / Array | Fixed-Size Sliding Window | [Java](./sliding-window/ContainsDuplicateII.java) |
+| 2260 | [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | Medium | Hashing | Last Seen Index | [Java](./hashing/MinimumConsecutiveCardsToPickUp.java) |
