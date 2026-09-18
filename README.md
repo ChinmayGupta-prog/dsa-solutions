@@ -20,3 +20,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 1128 | Number of Equivalent Domino Pairs  | Easy | Hashing | Normalized Pair + Frequency Counting | [Java](./hashing/NumberOfEquivalentDominoPairs.java) |
 | 229 | Majority Element II | Medium | Array | Boyer-Moore Voting Algorithm | [Java](./Arrays/Boyer-Moore-Voting-Algorithm/MajorityElementII.java) |
 | 645 | Set Mismatch | Easy | Hashing / Math | Frequency Counting + Sum Difference | [Java](./hashing/SetMismatch.java) |
+| 594 | Longest Harmonious Subsequence | Easy | Hashing | Frequency Counting + Adjacent Key Lookup | [Java](./hashing/LongestHarmoniousSubsequence.java) |
