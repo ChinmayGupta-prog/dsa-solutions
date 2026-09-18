@@ -16,6 +16,7 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 890 | Find and Replace Pattern | Medium | HashMap / String | One-to-One Mapping | [Java](./hashing/FindAndReplacePattern.java) |
 | 205 | Isomorphic Strings | Easy | HashMap / String | One-to-One Mapping | [Java](./hashing/IsomorphicStrings.java) |
 | 219 | Contains Duplicate II | Easy | HashSet / Array | Fixed-Size Sliding Window | [Java](./sliding-window/ContainsDuplicateII.java) |
-| 2260 | [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | Medium | Hashing | Last Seen Index | [Java](./hashing/MinimumConsecutiveCardsToPickUp.java) |
-| 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | Easy | Hashing | Normalized Pair + Frequency Counting | [Java](./hashing/NumberOfEquivalentDominoPairs.java) |
+| 2260 | Minimum Consecutive Cards to Pick Up | Medium | Hashing | Last Seen Index | [Java](./hashing/MinimumConsecutiveCardsToPickUp.java) |
+| 1128 | Number of Equivalent Domino Pairs  | Easy | Hashing | Normalized Pair + Frequency Counting | [Java](./hashing/NumberOfEquivalentDominoPairs.java) |
 | 229 | Majority Element II | Medium | Array | Boyer-Moore Voting Algorithm | [Java](./Arrays/Boyer-Moore-Voting-Algorithm/MajorityElementII.java) |
+| 645 | Set Mismatch | Easy | Hashing / Math | Frequency Counting + Sum Difference | [Java](./hashing/SetMismatch.java) |
