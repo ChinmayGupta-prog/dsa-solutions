@@ -22,3 +22,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 645 | Set Mismatch | Easy | Hashing / Math | Frequency Counting + Sum Difference | [Java](./hashing/SetMismatch.java) |
 | 594 | Longest Harmonious Subsequence | Easy | Hashing | Frequency Counting + Adjacent Key Lookup | [Java](./hashing/LongestHarmoniousSubsequence.java) |
 | 49 | Group Anagrams | Medium | HashMap / String / Sorting | Grouping by Canonical Form | [Java](./hashing/GroupAnagrams.java) |
+| 15 | 3Sum | Medium | Array / Sorting | Fixed Element + Two Pointers | [Java](./arrays/ThreeSum.java) |
