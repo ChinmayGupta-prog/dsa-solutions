@@ -23,3 +23,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 594 | Longest Harmonious Subsequence | Easy | Hashing | Frequency Counting + Adjacent Key Lookup | [Java](./hashing/LongestHarmoniousSubsequence.java) |
 | 49 | Group Anagrams | Medium | HashMap / String / Sorting | Grouping by Canonical Form | [Java](./hashing/GroupAnagrams.java) |
 | 15 | 3Sum | Medium | Array / Sorting | Fixed Element + Two Pointers | [Java](./arrays/ThreeSum.java) |
+| 152 | Maximum Product Subarray | Medium | Array / Dynamic Programming | Track Maximum and Minimum Products | [Java](./arrays/MaximumProductSubarray.java) |
