@@ -25,3 +25,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 15 | 3Sum | Medium | Array / Sorting | Fixed Element + Two Pointers | [Java](./arrays/ThreeSum.java) |
 | 152 | Maximum Product Subarray | Medium | Array / Dynamic Programming | Track Maximum and Minimum Products | [Java](./arrays/MaximumProductSubarray.java) |
 | 389 | Find the Difference | Easy | String | Frequency Counting | [Java](./strings/FindTheDifference.java) |
+| 442 | Find All Duplicates in an Array | Medium | Array | In-place Negative Marking | [Java](./arrays/FindAllDuplicatesInAnArray.java) |
