@@ -27,3 +27,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 389 | Find the Difference | Easy | String | Frequency Counting | [Java](./strings/FindTheDifference.java) |
 | 442 | Find All Duplicates in an Array | Medium | Array | In-place Negative Marking | [Java](./arrays/FindAllDuplicatesInAnArray.java) |
 | 1200 | Minimum Absolute Difference | Easy | Array / Sorting | Sort and Compare Adjacent Elements | [Java](./arrays/MinimumAbsoluteDifference.java) |
+| 392 | Is Subsequence | Easy | String | Two Pointers | [Java](./strings/IsSubsequence.java) |
