@@ -31,3 +31,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 143 | Reorder List | Medium | Linked List | Find Middle + Reverse + Merge | [Java](./linked-list/ReorderList.java) |
 | 1413 | Minimum Value to Get Positive Step by Step Sum | Easy | Array / Prefix Sum | Minimum Prefix Sum | [Java](./prefix-sum/MinimumValueToGetPositiveStepByStepSum.java) |
 | 1732 | Find the Highest Altitude | Easy | Array / Prefix Sum | Running Sum + Maximum Tracking | [Java](./prefix-sum/FindTheHighestAltitude.java) |
+| 560 | Subarray Sum Equals K | Medium | Array / HashMap / Prefix Sum | Prefix Sum + Frequency Map | [Java](./prefix-sum/SubarraySumEqualsK.java) |
