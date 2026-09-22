@@ -1,4 +1,4 @@
-<img width="1397" height="131" alt="image" src="https://github.com/user-attachments/assets/f5c7064d-a16c-47e1-afca-ed69a3c53880" /># DSA Solutions
+DSA
 
 Daily practice of Data Structures and Algorithms problems solved in Java.
 
