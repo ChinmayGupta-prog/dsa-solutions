@@ -35,3 +35,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 525 | Contiguous Array | Medium | Array / HashMap / Prefix Sum | Balanced Prefix Sum + First Occurrence Map | [Java](./prefix-sum/ContiguousArray.java) |
 | 238 | Product of Array Except Self | Medium | Array / Prefix Product | Prefix Product + Suffix Product | [Java](./prefix-sum/ProductOfArrayExceptSelf.java) |
 | 345 | Reverse Vowels of a String | Easy | String | Two Pointers | [Java](./strings/ReverseVowelsOfAString.java) |
+| 475 | Heaters | Medium | Array / Sorting / Binary Search | Binary Search on Answer + Two-Pointer Feasibility Check | [Java](./binary-search/Heaters.java) |
