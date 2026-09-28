@@ -34,3 +34,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 560 | Subarray Sum Equals K | Medium | Array / HashMap / Prefix Sum | Prefix Sum + Frequency Map | [Java](./prefix-sum/SubarraySumEqualsK.java) |
 | 525 | Contiguous Array | Medium | Array / HashMap / Prefix Sum | Balanced Prefix Sum + First Occurrence Map | [Java](./prefix-sum/ContiguousArray.java) |
 | 238 | Product of Array Except Self | Medium | Array / Prefix Product | Prefix Product + Suffix Product | [Java](./prefix-sum/ProductOfArrayExceptSelf.java) |
+| 345 | Reverse Vowels of a String | Easy | String | Two Pointers | [Java](./strings/ReverseVowelsOfAString.java) |
