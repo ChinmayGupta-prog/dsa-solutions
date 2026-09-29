@@ -37,3 +37,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 345 | Reverse Vowels of a String | Easy | String | Two Pointers | [Java](./strings/ReverseVowelsOfAString.java) |
 | 475 | Heaters | Medium | Array / Sorting / Binary Search | Binary Search on Answer + Two-Pointer Feasibility Check | [Java](./binary-search/Heaters.java) |
 | 189 | Rotate Array | Medium | Array / Two Pointers | Three Reversals | [Java](./arrays/RotateArray.java) |
+| 1539 | Kth Missing Positive Number | Easy | Array / Binary Search | Binary Search on Missing Count | [Java](./binary-search/KthMissingPositiveNumber.java) |
