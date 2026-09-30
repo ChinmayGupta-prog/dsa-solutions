@@ -40,3 +40,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 1539 | Kth Missing Positive Number | Easy | Array / Binary Search | Binary Search on Missing Count | [Java](./binary-search/KthMissingPositiveNumber.java) |
 | 162 | Find Peak Element | Medium | Array / Binary Search | Binary Search on Slope | [Java](./binary-search/FindPeakElement.java) |
 | 541 | Reverse String II | Easy | String | Two Pointers + Block Traversal | [Java](./strings/ReverseStringII.java) |
+| 1089 | Duplicate Zeros | Easy | Array / Two Pointers | Backward Traversal + Virtual Index | [Java](./arrays/DuplicateZeros.java) |
