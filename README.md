@@ -45,3 +45,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 121 | Best Time to Buy and Sell Stock | Easy | Array / Greedy | Track Minimum Price + Maximum Profit | [Java](./arrays/BestTimeToBuyAndSellStock.java) |
 | 43 | Multiply Strings | Medium | String / Math | Digit-by-Digit Multiplication + Carry | [Java](./strings/MultiplyStrings.java) |
 | 151 | Reverse Words in a String | Medium | String | Split Words + Reverse Traversal | [Java](./strings/ReverseWordsInAString.java) |
+| 234 | Palindrome Linked List | Easy | Linked List | Slow/Fast Pointers + Reverse Second Half + Compare | [Java](./linked-list/PalindromeLinkedList.java) |
