@@ -50,3 +50,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 283 | Move Zeroes | Easy | Array / Two Pointers | Read/Write Pointers + Zero Fill | [Java](./arrays/MoveZeroes.java) |
 | 476 | Number Complement | Easy | Bit Manipulation | Build Bit Mask + XOR | [Java](./bit-manipulation/NumberComplement.java) |
 | 75 | Sort Colors | Medium | Array / Two Pointers / Sorting | Dutch National Flag (Three Pointers) | [Java](./arrays/SortColors.java) |
+| 187 | Repeated DNA Sequences | Medium | String / HashSet / Sliding Window | Fixed-Size Sliding Window + Duplicate Detection | [Java](./sliding-window/RepeatedDNASequences.java) |
