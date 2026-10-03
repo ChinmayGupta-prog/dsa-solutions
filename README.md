@@ -48,3 +48,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 234 | Palindrome Linked List | Easy | Linked List | Slow/Fast Pointers + Reverse Second Half + Compare | [Java](./linked-list/PalindromeLinkedList.java) |
 | 2161 | Partition Array According to Given Pivot | Medium | Array | Stable Partitioning with Three Passes | [Java](./arrays/PartitionArrayAccordingToGivenPivot.java) |
 | 283 | Move Zeroes | Easy | Array / Two Pointers | Read/Write Pointers + Zero Fill | [Java](./arrays/MoveZeroes.java) |
+| 476 | Number Complement | Easy | Bit Manipulation | Build Bit Mask + XOR | [Java](./bit-manipulation/NumberComplement.java) |
