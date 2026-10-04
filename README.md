@@ -53,3 +53,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 187 | Repeated DNA Sequences | Medium | String / HashSet / Sliding Window | Fixed-Size Sliding Window + Duplicate Detection | [Java](./sliding-window/RepeatedDNASequences.java) |
 | — | [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) | Medium | Recursion / Math | Digit Sum × Repetitions + Recursive Reduction | [Java](./recursion/RecursiveDigitSum.java) |
 | 395 | Longest Substring with At Least K Repeating Characters | Medium | String / HashMap | Brute Force + Incremental Frequency Counting | [Java](./strings/LongestSubstringWithAtLeastKRepeatingCharacters.java) |
+| 1652 | Defuse the Bomb | Easy | Array | Brute Force + Circular Traversal | [Java](./arrays/DefuseTheBomb.java) |
