@@ -54,3 +54,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | — | Recursive Digit Sum| Medium | Recursion / Math | Digit Sum × Repetitions + Recursive Reduction | [Java](./recursion/RecursiveDigitSum.java) |
 | 395 | Longest Substring with At Least K Repeating Characters | Medium | String / HashMap | Brute Force + Incremental Frequency Counting | [Java](./strings/LongestSubstringWithAtLeastKRepeatingCharacters.java) |
 | 1652 | Defuse the Bomb | Easy | Array | Brute Force + Circular Traversal | [Java](./arrays/DefuseTheBomb.java) |
+| 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | Array / Sorting / Sliding Window | Sorting + Fixed-Size Sliding Window | [Java](./sliding-window/MinimumDifferenceBetweenHighestAndLowestOfKScores.java) |
