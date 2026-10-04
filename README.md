@@ -52,3 +52,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 75 | Sort Colors | Medium | Array / Two Pointers / Sorting | Dutch National Flag (Three Pointers) | [Java](./arrays/SortColors.java) |
 | 187 | Repeated DNA Sequences | Medium | String / HashSet / Sliding Window | Fixed-Size Sliding Window + Duplicate Detection | [Java](./sliding-window/RepeatedDNASequences.java) |
 | — | [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) | Medium | Recursion / Math | Digit Sum × Repetitions + Recursive Reduction | [Java](./recursion/RecursiveDigitSum.java) |
+| 395 | Longest Substring with At Least K Repeating Characters | Medium | String / HashMap | Brute Force + Incremental Frequency Counting | [Java](./strings/LongestSubstringWithAtLeastKRepeatingCharacters.java) |
