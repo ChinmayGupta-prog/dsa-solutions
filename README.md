@@ -57,3 +57,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | Array / Sorting / Sliding Window | Sorting + Fixed-Size Sliding Window | [Java](./sliding-window/MinimumDifferenceBetweenHighestAndLowestOfKScores.java) |
 | 58 | Length of Last Word | Easy | String | Trim + Backward Traversal | [Java](./strings/LengthOfLastWord.java) |
 | 179 | Largest Number | Medium | Array / String / Sorting | Custom Comparator + Greedy Ordering | [Java](./strings/LargestNumber.java) |
+| 412 | Fizz Buzz | Easy | Math / String | Simulation + Divisibility Checks | [Java](./math/FizzBuzz.java) |
