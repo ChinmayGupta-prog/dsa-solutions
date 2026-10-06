@@ -58,3 +58,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 58 | Length of Last Word | Easy | String | Trim + Backward Traversal | [Java](./strings/LengthOfLastWord.java) |
 | 179 | Largest Number | Medium | Array / String / Sorting | Custom Comparator + Greedy Ordering | [Java](./strings/LargestNumber.java) |
 | 412 | Fizz Buzz | Easy | Math / String | Simulation + Divisibility Checks | [Java](./math/FizzBuzz.java) |
+| 821 | Shortest Distance to a Character | Easy | String | Brute Force + Minimum Distance Tracking | [Java](./strings/ShortestDistanceToCharacter.java) |
