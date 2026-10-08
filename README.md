@@ -62,3 +62,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 31 | Next Permutation | Medium | Array / Two Pointers | Find Pivot + Swap Successor + Reverse Suffix | [Java](./arrays/NextPermutation.java) |
 | 1332 | Remove Palindromic Subsequences | Easy | String | Reverse + Palindrome Check | [Java](./strings/RemovePalindromicSubsequences.java) |
 | 24 | Swap Nodes in Pairs | Medium | Linked List | Auxiliary List + Pairwise Swap + Relinking | [Java](./linked-list/SwapNodesInPairs.java) |
+| 3507 | Minimum Pair Removal to Sort Array I | Easy | Array / Simulation | Repeated Minimum Adjacent-Pair Scan + Merge | [Java](./arrays/MinimumPairRemovalToSortArrayI.java) |
