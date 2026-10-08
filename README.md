@@ -61,3 +61,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 821 | Shortest Distance to a Character | Easy | String | Brute Force + Minimum Distance Tracking | [Java](./strings/ShortestDistanceToCharacter.java) |
 | 31 | Next Permutation | Medium | Array / Two Pointers | Find Pivot + Swap Successor + Reverse Suffix | [Java](./arrays/NextPermutation.java) |
 | 1332 | Remove Palindromic Subsequences | Easy | String | Reverse + Palindrome Check | [Java](./strings/RemovePalindromicSubsequences.java) |
+| 24 | Swap Nodes in Pairs | Medium | Linked List | Auxiliary List + Pairwise Swap + Relinking | [Java](./linked-list/SwapNodesInPairs.java) |
