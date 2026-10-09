@@ -65,3 +65,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | Array / Simulation | Repeated Minimum Adjacent-Pair Scan + Merge | [Java](./arrays/MinimumPairRemovalToSortArrayI.java) |
 | 2 | Add Two Numbers | Medium | Linked List / Math | BigInteger Conversion + Addition + Reverse Result Construction | [Java](./linked-list/AddTwoNumbers.java) |
 | 21 | Merge Two Sorted Lists | Easy | Linked List | Two Pointers + Dummy Node | [Java](./linked-list/MergeTwoSortedLists.java) |
+| 2181 | Merge Nodes in Between Zeros | Medium | Linked List | Running Sum + In-place Node Reuse | [Java](./linked-list/MergeNodesInBetweenZeros.java) |
