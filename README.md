@@ -67,3 +67,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 21 | Merge Two Sorted Lists | Easy | Linked List | Two Pointers + Dummy Node | [Java](./linked-list/MergeTwoSortedLists.java) |
 | 2181 | Merge Nodes in Between Zeros | Medium | Linked List | Running Sum + In-place Node Reuse | [Java](./linked-list/MergeNodesInBetweenZeros.java) |
 | 19 | Remove Nth Node From End of List | Medium | Linked List | Two Pointers with Fixed Gap | [Java](./linked-list/RemoveNthNodeFromEndOfList.java) |
+| 171 | Excel Sheet Column Number | Easy | String | Base-26 Conversion | [Java](./string/ExcelSheetColumnNumber.java) |
