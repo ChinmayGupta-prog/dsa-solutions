@@ -72,3 +72,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 3 | Longest Substring Without Repeating Characters | Medium | String | Sliding Window with HashSet | [Java](./string/LongestSubstringWithoutRepeatingCharacters.java) |
 | 438 | Find All Anagrams in a String | Medium | String | Sliding Window with HashMap | [Java](./string/FindAllAnagramsInAString.java) |
 | 26 | Remove Duplicates from Sorted Array | Easy | Array / Two Pointers | Read/Write Pointers + In-place Deduplication | [Java](./arrays/RemoveDuplicatesFromSortedArray.java) |
+| 268 | Missing Number | Easy | Array / Bit Manipulation | XOR of Range and Array Elements | [Java](./arrays/MissingNumber.java) |
