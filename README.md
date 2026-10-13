@@ -74,3 +74,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 26 | Remove Duplicates from Sorted Array | Easy | Array / Two Pointers | Read/Write Pointers + In-place Deduplication | [Java](./arrays/RemoveDuplicatesFromSortedArray.java) |
 | 268 | Missing Number | Easy | Array / Bit Manipulation | XOR of Range and Array Elements | [Java](./arrays/MissingNumber.java) |
 | 53 | Maximum Subarray | Medium | Array / Dynamic Programming | Kadane's Algorithm | [Java](./arrays/MaximumSubarray.java) |
+| 9 | Palindrome Number | Easy | Math | Reverse Digits + Compare with Original | [Java](./math/PalindromeNumber.java) |
