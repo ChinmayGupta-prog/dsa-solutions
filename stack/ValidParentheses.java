@@ -1,0 +1,44 @@
+
+import java.util.Stack;
+
+class ValidParentheses {
+    public boolean isValid(String s) {
+        Stack<Character> st = new Stack<>();
+
+        for (char c : s.toCharArray()) {
+            switch (c) {
+                case '{':
+                case '[':
+                case '(':
+                    st.push(c);
+                    break;
+
+                case '}':
+                    if (!st.empty() && st.peek() == '{')
+                        st.pop();
+                    else {
+                        return false;
+                    }
+                    break;
+
+                case ']':
+                    if (!st.empty() && st.peek() == '[')
+                        st.pop();
+                    else {
+                        return false;
+                    }
+                    break;
+
+                case ')':
+                    if (!st.empty() && st.peek() == '(')
+                        st.pop();
+                    else {
+                        return false;
+                    }
+                    break;
+            }
+        }
+
+        return st.empty();
+    }
+}
