@@ -78,3 +78,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 242 | Valid Anagram | Easy | String | Character Frequency Array | [Java](./string/ValidAnagram.java) |
 | 387 | First Unique Character in a String | Easy | String | Character Frequency Array | [Java](./string/FirstUniqueCharacterInAString.java) |
 | 20 | Valid Parentheses | Easy | Stack / String | Stack-based Bracket Matching | [Java](./stack/ValidParentheses.java) |
+| 232 | Implement Queue using Stacks | Easy | Stack / Queue | Two Stacks + Lazy Transfer | [Java](./stack/ImplementQueueUsingStacks.java) |
