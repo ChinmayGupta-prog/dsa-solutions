@@ -75,3 +75,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 268 | Missing Number | Easy | Array / Bit Manipulation | XOR of Range and Array Elements | [Java](./arrays/MissingNumber.java) |
 | 53 | Maximum Subarray | Medium | Array / Dynamic Programming | Kadane's Algorithm | [Java](./arrays/MaximumSubarray.java) |
 | 9 | Palindrome Number | Easy | Math | Reverse Digits + Compare with Original | [Java](./math/PalindromeNumber.java) |
+| 242 | Valid Anagram | Easy | String | Character Frequency Array | [Java](./string/ValidAnagram.java) |
