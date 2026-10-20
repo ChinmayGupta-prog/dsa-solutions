@@ -81,3 +81,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 232 | Implement Queue using Stacks | Easy | Stack / Queue | Two Stacks + Lazy Transfer | [Java](./stack/ImplementQueueUsingStacks.java) |
 | — | Find Remainder of Large Number | Easy | String / Modular Arithmetic | Digit-by-Digit Modulo | [Java](./string/FindRemainderOfLargeNumber.java) |
 | 416 | Partition Equal Subset Sum | Medium | Dynamic Programming / 0-1 Knapsack | 1D DP | [Java](./dynamic-programming/PartitionEqualSubsetSum.java) |
+| 2047 | Number of Valid Words in a Sentence | Easy | String | String Parsing + Validation | [Java](./strings/NumberOfValidWordsInASentence.java) |
