@@ -79,3 +79,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 387 | First Unique Character in a String | Easy | String | Character Frequency Array | [Java](./string/FirstUniqueCharacterInAString.java) |
 | 20 | Valid Parentheses | Easy | Stack / String | Stack-based Bracket Matching | [Java](./stack/ValidParentheses.java) |
 | 232 | Implement Queue using Stacks | Easy | Stack / Queue | Two Stacks + Lazy Transfer | [Java](./stack/ImplementQueueUsingStacks.java) |
+| — | Find Remainder of Large Number | Easy | String / Modular Arithmetic | Digit-by-Digit Modulo | [Java](./string/FindRemainderOfLargeNumber.java) |
