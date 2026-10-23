@@ -84,3 +84,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 2047 | Number of Valid Words in a Sentence | Easy | String | String Parsing + Validation | [Java](./strings/NumberOfValidWordsInASentence.java) |
 | 1 | Two Sum | Easy | Array / HashMap | One-Pass HashMap | [Java](./hashing/TwoSum.java) |
 | 704 | Binary Search | Easy | Array / Binary Search | Iterative Binary Search | [Java](./binary-search/BinarySearch.java) |
+| 14 | Longest Common Prefix | Easy | String | Vertical Scanning | [Java](./strings/LongestCommonPrefix.java) |
