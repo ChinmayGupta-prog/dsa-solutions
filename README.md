@@ -89,3 +89,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 287 | Find the Duplicate Number | Medium | Array / Hashing | Boolean Array (Visited Tracking) | [Java](./arrays/FindTheDuplicateNumber.java) |
 | 169 | Majority Element | Easy | Array | Boyer-Moore Voting Algorithm | [Java](./arrays/MajorityElement.java) |
 | 7 | Reverse Integer | Medium | Math | Digit Reversal + Long Overflow Check | [Java](./math/ReverseInteger.java) |
+| 202 | Happy Number | Easy | Math / HashSet | Cycle Detection Using HashSet | [Java](./math/HappyNumber.java) |
