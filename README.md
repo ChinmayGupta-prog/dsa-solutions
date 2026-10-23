@@ -86,3 +86,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 704 | Binary Search | Easy | Array / Binary Search | Iterative Binary Search | [Java](./binary-search/BinarySearch.java) |
 | 14 | Longest Common Prefix | Easy | String | Vertical Scanning | [Java](./strings/LongestCommonPrefix.java) |
 | 443 | String Compression | Medium | String / Two Pointers | In-place Read/Write Pointers | [Java](./strings/StringCompression.java) |
+| 287 | Find the Duplicate Number | Medium | Array / Hashing | Boolean Array (Visited Tracking) | [Java](./arrays/FindTheDuplicateNumber.java) |
