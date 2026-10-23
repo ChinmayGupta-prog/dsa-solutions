@@ -85,3 +85,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 1 | Two Sum | Easy | Array / HashMap | One-Pass HashMap | [Java](./hashing/TwoSum.java) |
 | 704 | Binary Search | Easy | Array / Binary Search | Iterative Binary Search | [Java](./binary-search/BinarySearch.java) |
 | 14 | Longest Common Prefix | Easy | String | Vertical Scanning | [Java](./strings/LongestCommonPrefix.java) |
+| 443 | String Compression | Medium | String / Two Pointers | In-place Read/Write Pointers | [Java](./strings/StringCompression.java) |
