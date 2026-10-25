@@ -94,3 +94,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 168 | Excel Sheet Column Title | Easy | String / Math | Base-26 Conversion | [Java](./strings/ExcelSheetColumnTitle.java) |
 | 415 | Add Strings | Easy | String / Math | Digit-by-Digit Addition + Carry | [Java](./strings/AddStrings.java) |
 | 227 | Basic Calculator II | Medium | String / Stack | Operator Precedence + Running Variables | [Java](./stack/BasicCalculatorII.java) |
+| 504 | Base 7 | Easy | Math | Base Conversion / Repeated Division | [Java](./math/Base7.java) |
