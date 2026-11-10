@@ -97,3 +97,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 504 | Base 7 | Easy | Math | Base Conversion / Repeated Division | [Java](./math/Base7.java) |
 | 917 | Reverse Only Letters | Easy | String / Two Pointers | Two Pointers + Character Filtering | [Java](./strings/ReverseOnlyLetters.java) |
 | 1385 | Find the Distance Value Between Two Arrays | Easy | Array | Brute Force + Nested Loops | [Java](./arrays/FindTheDistanceValueBetweenTwoArrays.java) |
+| 217 | Contains Duplicate | Easy | Array / HashSet | HashSet + Duplicate Detection | [Java](./hashing/ContainsDuplicate.java) |
