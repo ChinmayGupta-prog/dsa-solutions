@@ -99,3 +99,4 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 1385 | Find the Distance Value Between Two Arrays | Easy | Array | Brute Force + Nested Loops | [Java](./arrays/FindTheDistanceValueBetweenTwoArrays.java) |
 | 217 | Contains Duplicate | Easy | Array / HashSet | HashSet + Duplicate Detection | [Java](./hashing/ContainsDuplicate.java) |
 | 383 | Ransom Note | Easy | String / HashMap | Character Frequency Counting | [Java](./hashing/RansomNote.java) |
+| 643 | Maximum Average Subarray I | Easy | Array / Sliding Window | Fixed-Size Sliding Window | [Java](./sliding-window/MaximumAverageSubarrayI.java) |
