@@ -69,7 +69,7 @@ Daily practice of Data Structures and Algorithms problems solved in Java.
 | 19 | Remove Nth Node From End of List | Medium | Linked List | Two Pointers with Fixed Gap | [Java](./linked-list/RemoveNthNodeFromEndOfList.java) |
 | 171 | Excel Sheet Column Number | Easy | String | Base-26 Conversion | [Java](./string/ExcelSheetColumnNumber.java) |
 | 125 | Valid Palindrome | Easy | String | Two Pointers | [Java](./string/ValidPalindrome.java) |
-| 3 | Longest Substring Without Repeating Characters | Medium | String | Sliding Window with HashSet | [Java](./string/LongestSubstringWithoutRepeatingCharacters.java) |
+| 3 | Longest Substring Without Repeating Characters | Medium | String / Sliding Window | Sliding Window with HashMap (Last Seen Index) | [Java](./strings/LongestSubstringWithoutRepeatingCharacters.java) |
 | 438 | Find All Anagrams in a String | Medium | String | Sliding Window with HashMap | [Java](./string/FindAllAnagramsInAString.java) |
 | 26 | Remove Duplicates from Sorted Array | Easy | Array / Two Pointers | Read/Write Pointers + In-place Deduplication | [Java](./arrays/RemoveDuplicatesFromSortedArray.java) |
 | 268 | Missing Number | Easy | Array / Bit Manipulation | XOR of Range and Array Elements | [Java](./arrays/MissingNumber.java) |
